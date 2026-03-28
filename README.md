@@ -9,3 +9,4 @@ make pull request
 This repository is for designing an app for tea leaves.
 ## create a design architecture
 this is do first using figma for wireframes
+learning to to do commits
