@@ -7,3 +7,4 @@ create branches
 make pull request
 ## Purpose
 This repository is for designing an app for tea leaves.
+## create a design architecture
