@@ -8,3 +8,4 @@ make pull request
 ## Purpose
 This repository is for designing an app for tea leaves.
 ## create a design architecture
+this is do first using figma
